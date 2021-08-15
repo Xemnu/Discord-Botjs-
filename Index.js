@@ -13,4 +13,4 @@ client.on('interactionCreate', async interaction => {
   }
 });
 
-client.login('ODM5NTQxNjMwNTk1MjM1ODYx.YJLKEg.BGRaMnFmIj6x_UaXVP-F_ZBblSw');
+client.login('Token');
